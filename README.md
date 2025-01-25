@@ -39,6 +39,13 @@ Este repositório é perfeito para:
 
 ---
 
+## 🖥️ **Projetos**
+
+Lista de projetos desenvolvidos:
+1. [Let 2 Play](https://github.com/RFBruno/let2-play)
+
+---
+
 ## 🤝 **Contribuições**
 
 Explore, aprenda e contribua! 💡 Sugestões e melhorias são sempre bem-vindas.  
